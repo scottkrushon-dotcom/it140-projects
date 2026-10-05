@@ -7,26 +7,23 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Cybersecurity — The player must stop a hacker from taking control of a company's computer network.
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
-
+A dangerous hacker has gained access to the company's network and is preparing to steal sensitive information. The player is a cybersecurity analyst who must travel through the company and collect six cybersecurity tools before entering the Server Room. If all six items are collected before encountering the hacker, the player can secure the network and stop the attack. If the hacker is encountered first, the network is compromised and the player loses.
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
-
+1. Lobby - Start room
+2. IT Office - Firewall
+3. Security Office - Security Badge
+4. Network Room - Ethernet Cable
+5. Computer Lab - Antivirus Software
+6. Help Desk - USB Recovery Drive
+7. Data Center - Encryption Key
+8. Server Room - Villain room
 Add more rooms if your design needs them.
 
 ## Items
@@ -34,19 +31,19 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. Firewall
+2. Security Badge
+3. Ethernet Cable
+4. Antivirus Software
+5. USB Recovery Drive
+6. Encryption Key
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+The Hacker - A cybercriminal who has broken into the company's network and is attempting to steal sensitive data. The player must collect all six cybersecurity items before entering the Server Room and confronting the hacker.
 
 ## Storyboard and Map Check
 
